@@ -1,2 +1,2 @@
 # Ice-Cream-POS-System
-Point-of-sale system with a graphical user interface that allows customers to select an ice cream flavor and size before generating a receipt.
+A Java-based point-of-sale system that mirrors real-world checkout behavior with a cheerful twist. Designed to streamline customer interaction, the system features a user-friendly GUI allowing flavor and size selection before calculating costs and printing a digital receipt.
